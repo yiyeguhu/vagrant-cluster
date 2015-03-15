@@ -1,3 +1,3 @@
 [submodule "ansible-bdas"]
 	path = ansible-bdas
-	url = https://github.com/irifed/ansible-bdas.git
+	url = https://github.com/yiyeguhu/ansible-bdas.git
